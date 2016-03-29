@@ -1,0 +1,4 @@
+com\ifpb\pos\atividadesoap\TimeService.class
+com\ifpb\pos\atividadesoap\TimeServiceImpl.class
+com\ifpb\pos\atividadesoap\TimeClient.class
+com\ifpb\pos\atividadesoap\TimeServicePublisher.class
